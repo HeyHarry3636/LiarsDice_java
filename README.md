@@ -36,7 +36,7 @@ Michael Harris is the author of these script's.
 
 ## License
 
-This code is available under the [MIT License.] (LICENSE.txt)
+This code is available under the [MIT License.] (LICENSE)
 
 <img src="Gameplay.PNG" width="878" height="593" border="10" />
 <img src="GameOver.PNG" width="615" height="234" border="10" />
